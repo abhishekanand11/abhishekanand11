@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishekanand11
+- 👋 Hi, I’m Abhishek Anand
 - 👀 I’m interested in building large scale projects ranging across different domains banking, customer service etc.
 - 🌱 I’m currently learning python and some machine learning in parallel.
 - 💞️ I’m looking to collaborate on any machine learning projects
